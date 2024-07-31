@@ -11,6 +11,13 @@ This repo has all resources you need to be a senior software engineer and can be
 * [Courses](#courses)
 
 ## Interview Preparation
+### Leetcode
+
+
+### System Design
+
+
+### Behavioral Interviews
 
 ## Newsletters
 
