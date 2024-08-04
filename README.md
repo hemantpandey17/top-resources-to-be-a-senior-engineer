@@ -69,6 +69,6 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/)
 - [Alex Xu](https://www.linkedin.com/in/alexxubyte/)
 - [Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/)
-
+- [Mayank Ahuja](https://www.linkedin.com/in/curiouslearner/)
 
 ## Courses
