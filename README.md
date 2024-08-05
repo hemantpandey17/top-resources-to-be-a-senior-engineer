@@ -6,7 +6,6 @@ This repo has all resources you need to be a senior software engineer and can be
 * [Newsletters](#newsletters)
 * [Books](#books)
 * [Youtube](#youtube)
-* [Podcasts](#podcasts)
 * [LinkedIN](#linkedin)
 * [Courses](#courses)
 
@@ -59,8 +58,9 @@ This repo has all resources you need to be a senior software engineer and can be
 - [StaffEng.com – Stories of reaching Staff-plus engineering roles](https://staffeng.com/)
 
 ## Youtube
-
-## Podcasts
+- [A Life Engineered](https://www.youtube.com/@ALifeEngineered)
+- [Arpit Bhayan's Asli Engineering](https://www.youtube.com/@AsliEngineering)
+- [Rahul Pandey](https://www.youtube.com/@RahulPandeyrkp)
 
 ## LinkedIN
 - [Hemant Pandey](https://www.linkedin.com/in/hemant-pandey/)
