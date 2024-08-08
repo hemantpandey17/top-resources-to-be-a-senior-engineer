@@ -41,6 +41,7 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Techlead Mentor](https://open.substack.com/pub/ravirajachar)
 - [Refactoring](https://refactoring.fm/)
 - [Strategize Your Career](https://strategizeyourcareer.substack.com/)
+- [Leadership Letters](https://open.substack.com/)
 
 ### System Design
 - [System Design Newsletter](https://newsletter.systemdesign.one/)
