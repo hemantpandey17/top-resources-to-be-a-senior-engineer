@@ -17,7 +17,7 @@ This repo has all resources you need to be a senior software engineer and can be
 * [Striver DSA Playlist on Youtube](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&ab_channel=takeUforward)
 * [Neetcode 150 Playlist - Python](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr&ab_channel=NeetCode)
 
-### System Design
+### High Level Design
 * [Grokking the System Design - PAID](https://www.designgurus.io/course/grokking-the-system-design-interview?aff=mopp8k)
 * [System Design Primer Github Repo](https://github.com/donnemartin/system-design-primer)
 * [Awesome System Design Resources Github Repo](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
@@ -25,6 +25,8 @@ This repo has all resources you need to be a senior software engineer and can be
 * [Gaurav Sen's System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [Tech Dummies Narendra L Youtube Channel](https://www.youtube.com/@TechDummiesNarendraL)
 
+### Low Level Design
+* [Concept && Coding - LLD Playlist : PAID](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
 
 ### Behavioral Interviews
 * [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
@@ -34,14 +36,14 @@ This repo has all resources you need to be a senior software engineer and can be
 ## Newsletters
 ### Career Growth
 - [The Hustling Engineer](https://thehustlingengineer.substack.com)
-- [High Growth Engineer](https://read.highgrowthengineer.com/)
-- [The Developing Dev](https://www.developing.dev/)
-- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
-- [Level Up Software Engineering](https://levelupsoftwareengineering.substack.com/)
-- [Techlead Mentor](https://open.substack.com/pub/ravirajachar)
-- [Refactoring](https://refactoring.fm/)
-- [Strategize Your Career](https://strategizeyourcareer.substack.com/)
-- [Leadership Letters](https://open.substack.com/)
+- [High Growth Engineer](https://read.highgrowthengineer.com?r=yznlc)
+- [The Developing Dev](https://www.developing.dev?r=yznlc)
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com?r=yznlc)
+- [Level Up Software Engineering](https://levelupsoftwareengineering.substack.com?r=yznlc)
+- [Techlead Mentor](https://open.substack.com/pub/ravirajachar?r=yznlc)
+- [Refactoring](https://refactoring.fm?r=yznlc)
+- [Strategize Your Career](https://strategizeyourcareer.substack.com?r=yznlc)
+- [Leadership Letters](https://www.leadership-letters.com?r=yznlc)
 
 ### System Design
 - [System Design Newsletter](https://newsletter.systemdesign.one/)
