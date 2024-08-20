@@ -1,0 +1,39 @@
+Two Sum (Easy):
+https://leetcode.com/problems/two-sum/
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+Remove Duplicates from Sorted Array (Easy):
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Given a sorted array, remove the duplicates in-place such that each element appears only once, and return the new length.
+
+Rotate Array (Medium):
+https://leetcode.com/problems/rotate-array/
+Rotate an array to the right by k steps. This problem assesses your ability to perform array manipulations.
+
+Max Subarray Sum (Easy):
+https://leetcode.com/problems/maximum-subarray/
+Find the contiguous subarray with the largest sum. This problem is a classic example of Kadane's algorithm.
+
+Product of Array Except Self (Medium):
+https://leetcode.com/problems/product-of-array-except-self/
+Given an array nums, return an array output such that output[i] is equal to the product of all elements in nums except nums[i].
+
+Merge Intervals (Medium):
+https://leetcode.com/problems/merge-intervals/
+Given a collection of intervals, merge overlapping intervals. This problem tests your ability to handle array of tuples or objects.
+
+Move Zeroes (Easy):
+https://leetcode.com/problems/move-zeroes/
+Given an array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Container With Most Water (Medium):
+https://leetcode.com/problems/container-with-most-water/
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+
+Third Maximum Number (Easy):
+https://leetcode.com/problems/third-maximum-number/
+Given a non-empty array of integers, find the third maximum number in this array. If it does not exist, return the maximum number.
+
+Spiral Matrix (Medium):
+https://leetcode.com/problems/spiral-matrix/
+Given an m x n matrix, return all elements of the matrix in spiral order. This problem tests your ability to traverse a matrix in a specific order.
