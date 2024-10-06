@@ -44,6 +44,7 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Refactoring](https://refactoring.fm?r=yznlc)
 - [Strategize Your Career](https://strategizeyourcareer.substack.com?r=yznlc)
 - [Leadership Letters](https://www.leadership-letters.com?r=yznlc)
+- [The Curious Soul's Corner](https://open.substack.com/pub/gouravkhanijoe?r=yznlc)
 
 ### System Design
 - [System Design Newsletter](https://newsletter.systemdesign.one/)
@@ -80,3 +81,5 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Codecrafters (affiliate - 40% off when you upgrade)](https://app.codecrafters.io/join?via=hemantpandey17) Practical coding challenges where you learn by doing
 - [Notion](https://affiliate.notion.so/l351yvf8xep7) Second brain for all your thoughts
 - [Mailbrew](https://mailbrew.com/?aff=hemantpandey) Groups a bunch of newsletters into 1 email per day so you don’t have to clear 15 items from your inbox every day
+- [TLDR](https://tldr.tech/signup?utm_source=TheHustlingEngineer&utm_campaign=TheHustlingEngineer-cpa-campaign&utm_medium=newsletter-sponsorship) - Follow latest trends and news on tech in 2 minutes
+- [Favikon](http://favikon.com/?ref=hemant) - Analyze and track content creators
