@@ -45,6 +45,7 @@ This repo has all resources you need to be a senior software engineer and can be
 - [Strategize Your Career](https://strategizeyourcareer.substack.com?r=yznlc)
 - [Leadership Letters](https://www.leadership-letters.com?r=yznlc)
 - [The Curious Soul's Corner](https://open.substack.com/pub/gouravkhanijoe?r=yznlc)
+- [PostHog](https://newsletter.posthog.com?r=yznlc)
 
 ### System Design
 - [System Design Newsletter](https://newsletter.systemdesign.one/)
