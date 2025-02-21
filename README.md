@@ -18,7 +18,7 @@ This repo has all resources you need to be a senior software engineer and can be
 * [Neetcode 150 Playlist - Python](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr&ab_channel=NeetCode)
 
 ### High Level Design
-* [Grokking the System Design - PAID](https://www.designgurus.io/course/grokking-the-system-design-interview?aff=mopp8k)
+* [Grokking the System Design - PAID](https://www.educative.io/unlimited?aff=xWkk)
 * [System Design Primer Github Repo](https://github.com/donnemartin/system-design-primer)
 * [Awesome System Design Resources Github Repo](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
 * [System Design 101 Alex Xu](https://github.com/ByteByteGoHq/system-design-101)
