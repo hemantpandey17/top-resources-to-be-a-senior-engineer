@@ -27,6 +27,7 @@ This repo has all resources you need to be a senior software engineer and can be
 
 ### Low Level Design
 * [Concept && Coding - LLD Playlist : PAID](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+* [Educative.io - Grokking the low level design](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles?aff=xWkk)
 
 ### Behavioral Interviews
 * [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
